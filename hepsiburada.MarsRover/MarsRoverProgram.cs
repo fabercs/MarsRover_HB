@@ -1,5 +1,4 @@
-﻿using hepsiburada.MarsRover.Helpers;
-using hepsiburada.MarsRover.Helpers.Validator;
+﻿using hepsiburada.MarsRover.Helpers.Validator;
 using System;
 using System.Collections.Generic;
 
@@ -14,6 +13,8 @@ namespace hepsiburada.MarsRover
         
         static void Main()
         {
+
+
             try
             {
                 SetPlateauSize();

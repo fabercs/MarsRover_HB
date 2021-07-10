@@ -3,3 +3,5 @@
 ################################################################################
 
 /hepsiburada.MarsRover.UnitTests/obj/project.nuget.cache
+/hepsiburada.MarsRover/obj/project.nuget.cache
+/hepsiburada/.vs/hepsiburada/DesignTimeBuild/.dtbcache.v2
