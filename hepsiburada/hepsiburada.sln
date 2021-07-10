@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hepsiburada.MarsRover", "..\hepsiburada.MarsRover\hepsiburada.MarsRover.csproj", "{627E32F5-4A61-4419-9D5E-586718CD612E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{BA4ED30D-6338-47B4-B3B0-C4439CF60171}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{4A0ACEC9-D1FD-44AA-8484-7D5C41C57EB2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hepsiburada.MarsRover.UnitTests", "..\hepsiburada.MarsRover.UnitTests\hepsiburada.MarsRover.UnitTests.csproj", "{ED1E2983-8F75-4444-AFBF-E3207C20E850}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{627E32F5-4A61-4419-9D5E-586718CD612E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{627E32F5-4A61-4419-9D5E-586718CD612E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{627E32F5-4A61-4419-9D5E-586718CD612E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{627E32F5-4A61-4419-9D5E-586718CD612E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED1E2983-8F75-4444-AFBF-E3207C20E850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED1E2983-8F75-4444-AFBF-E3207C20E850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED1E2983-8F75-4444-AFBF-E3207C20E850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED1E2983-8F75-4444-AFBF-E3207C20E850}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{627E32F5-4A61-4419-9D5E-586718CD612E} = {BA4ED30D-6338-47B4-B3B0-C4439CF60171}
+		{ED1E2983-8F75-4444-AFBF-E3207C20E850} = {4A0ACEC9-D1FD-44AA-8484-7D5C41C57EB2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2464260F-194D-4E19-A348-45F4405A1A85}
+	EndGlobalSection
+EndGlobal
